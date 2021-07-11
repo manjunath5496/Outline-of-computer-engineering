@@ -122,4 +122,31 @@
  <li><a target="_blank" href="https://github.com/manjunath5496/Outline-of-computer-engineering/blob/master/ml(10).pdf" style="text-decoration:none;">XGBoost: A Scalable Tree Boosting System </a></li>                              
 </ul>
 
+</br>
+
+<h2> Top AI Papers: </h2>
+
+
+<ul>
+
+                             
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Outline-of-computer-engineering/blob/master/a(1).pdf" style="text-decoration:none;">Neural Machine Translation by Jointly Learning to Align and Translate</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Outline-of-computer-engineering/blob/master/a(2).pdf" style="text-decoration:none;">Adam: A Method for Stochastic Optimization</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Outline-of-computer-engineering/blob/master/a(3).pdf" style="text-decoration:none;">Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Outline-of-computer-engineering/blob/master/a(4).pdf" style="text-decoration:none;">Towards a Human-like Open-Domain Chatbot</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Outline-of-computer-engineering/blob/master/a(5).pdf" style="text-decoration:none;">Beyond Accuracy: Behavioral Testing of NLP Models with CheckList</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Outline-of-computer-engineering/blob/master/a(6).pdf" style="text-decoration:none;">Generative Adversarial Nets</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Outline-of-computer-engineering/blob/master/a(7).pdf" style="text-decoration:none;">Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Outline-of-computer-engineering/blob/master/a(8).pdf" style="text-decoration:none;"> Large-scale Video Classification with Convolutional Neural Networks</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Outline-of-computer-engineering/blob/master/a(9).pdf" style="text-decoration:none;">A Review on Multi-Label Learning Algorithms</a></li>
+  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Outline-of-computer-engineering/blob/master/a(10).pdf" style="text-decoration:none;">Mastering the game of Go with deep neural networks and tree search</a></li>                              
+</ul>
+
+
 
